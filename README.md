@@ -50,9 +50,11 @@ Primero despliegue la aplicación:
 
 Luego abra el navegador y entre a su servidor por el puerto 5000. Por ejemplo: http://174.129.76.51:5000
 
+Pruebe el formulario y vea la respuesta del servidor.
+
 ### **PASO 5:**
 
-Ejecute las pruebas unitarias con:
+Ejecute las pruebas unitarias. Si tiene su aplicación aún desplegada, puede salir del proceso tecleando `crlt + C`. Para ejecutar las pruebas:
 
     python3 test_app.py
 
