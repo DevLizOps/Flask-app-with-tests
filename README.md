@@ -36,9 +36,7 @@ Si lo desea, puede comprobar la versión que tiene instalada.
 
     pip3 install Flask
 
-### **PASO 4: despliegue la aplicación**
-
-Pruebe la aplicación.
+### **PASO 4: pruebe la aplicación**
 
 Primero despliegue la aplicación:
 
@@ -48,7 +46,7 @@ Luego abra el navegador y entre a su servidor por el puerto 5000. Por ejemplo: h
 
 Pruebe el formulario y vea la respuesta del servidor.
 
-### **PASO 5: ejecute los test**
+### **PASO 5: ejecute los tests**
 
 Si tiene su aplicación aún desplegada, puede salir del proceso tecleando `crlt + C`. Para ejecutar las pruebas unitarias, escriba el comando:
 
