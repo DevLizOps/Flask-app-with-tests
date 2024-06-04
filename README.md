@@ -42,6 +42,16 @@ Instale el framework Flask:
 
 ### **PASO 4:**
 
-Pruebe la aplicación:
+Pruebe la aplicación.
+
+Ejecute:
 
     python3 app.py
+
+Abra el navegador y entre a su servidor por el puerto 5000. Por ejemplo: http://174.129.76.51:5000
+
+### **PASO 5:**
+
+Ejecute las pruebas unitarias con:
+
+    python3 test_app.py
