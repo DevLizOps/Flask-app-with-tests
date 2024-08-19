@@ -42,7 +42,7 @@ Primero despliegue la aplicación:
 
     python3 app.py
 
-Luego abra el navegador y entre a su servidor por el puerto 5000. Por ejemplo: http://174.129.76.51:5000
+Luego abra el navegador y entre a su servidor por el puerto 5000. Por ejemplo: http://123.456.78.90:5000
 
 Pruebe el formulario y vea la respuesta del servidor.
 
