@@ -18,7 +18,7 @@ Siga los siguientes pasos para para poder desplegar la aplicación:
 
 Abra una terminal y clone este repositorio en su servidor con el siguiente comando:
 
-    git clone https://github.com/LizzyMaken/Flask-app-with-tests.git
+    git clone https://github.com/DevLizOps/Flask-app-with-tests.git
 
 Muévase al directorio de la aplicación:
 
